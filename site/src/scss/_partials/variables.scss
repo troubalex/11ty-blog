@@ -1,7 +1,49 @@
 $BASE_UNIT: 100px;
 
-$FONT_NORMAL: Helvetica Neue, Helvetica, Arial, sans-serif;
-$FONT_HEADINGS: Helvetica Neue, Helvetica, Arial, sans-serif;
+@font-face {
+  font-family: "IKANSEEYOUALL";
+  font-style: normal;
+  font-weight: normal;
+  src: local("IKANSEEYOUALL"),
+    url("../../fonts/IKANSEEYOUALL.otf") format("opentype");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HKGrotesk-Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: local("HKGrotesk-Medium"),
+    url("../../fonts/HKGrotesk-Medium.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-MediumItalic";
+  font-style: italic;
+  font-weight: normal;
+  src: local("HKGrotesk-MediumItalic"),
+    url("../../fonts/HKGrotesk-MediumItalic.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-Bold";
+  font-style: normal;
+  font-weight: bold;
+  src: local("HKGrotesk-Bold"),
+    url("../../fonts/HKGrotesk-Bold.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-BoldItalic";
+  font-style: italic;
+  font-weight: bold;
+  src: local("HKGrotesk-BoldItalic"),
+    url("../../fonts/HKGrotesk-BoldItalic.otf") format("opentype");
+  font-display: swap;
+}
+
+$FONT_NORMAL: HKGrotesk-Medium, sans-serif;
+$FONT_HEADINGS: IKANSEEYOUALL, serif;
 $FONT_MONO: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
 $RATIO: 1.4;

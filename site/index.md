@@ -1,18 +1,14 @@
 ---
 layout: "layouts/home.njk"
-title: Simple Blog
+title: Alexandra's Log
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
+introPicture: "/pink-monster.png"
 ---
 
-An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
+Hi, I'm Alexandra! 👋
 
-<ul>
-    <li>
-        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
-    </li>
-    <li>
-        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/MadeByMike/supermaya">Deploy Supermaya to Netlify</a>
-    </li>
-</ul>
+A designer by trade and a terrible programmer by choice, I move between worlds and refuse to play by the rules. I currently lead product and development at [VIBBIO](https://vibbio.com), an Oslo-based video startup.
+
+This is my blog, a random collection of thoughts.
