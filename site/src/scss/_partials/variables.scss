@@ -5,7 +5,7 @@ $BASE_UNIT: 100px;
   font-style: normal;
   font-weight: normal;
   src: local("IKANSEEYOUALL"),
-    url("../../fonts/IKANSEEYOUALL.otf") format("opentype");
+    url("../../static/fonts/IKANSEEYOUALL.otf") format("opentype");
   font-display: swap;
 }
 
@@ -14,7 +14,7 @@ $BASE_UNIT: 100px;
   font-style: normal;
   font-weight: normal;
   src: local("HKGrotesk-Medium"),
-    url("../../fonts/HKGrotesk-Medium.otf") format("opentype");
+    url("../../static/fonts/HKGrotesk-Medium.otf") format("opentype");
   font-display: swap;
 }
 @font-face {
@@ -22,7 +22,7 @@ $BASE_UNIT: 100px;
   font-style: italic;
   font-weight: normal;
   src: local("HKGrotesk-MediumItalic"),
-    url("../../fonts/HKGrotesk-MediumItalic.otf") format("opentype");
+    url("../../static/fonts/HKGrotesk-MediumItalic.otf") format("opentype");
   font-display: swap;
 }
 @font-face {
@@ -30,7 +30,7 @@ $BASE_UNIT: 100px;
   font-style: normal;
   font-weight: bold;
   src: local("HKGrotesk-Bold"),
-    url("../../fonts/HKGrotesk-Bold.otf") format("opentype");
+    url("../../static/fonts/HKGrotesk-Bold.otf") format("opentype");
   font-display: swap;
 }
 @font-face {
@@ -38,7 +38,7 @@ $BASE_UNIT: 100px;
   font-style: italic;
   font-weight: bold;
   src: local("HKGrotesk-BoldItalic"),
-    url("../../fonts/HKGrotesk-BoldItalic.otf") format("opentype");
+    url("../../static/fonts/HKGrotesk-BoldItalic.otf") format("opentype");
   font-display: swap;
 }
 
