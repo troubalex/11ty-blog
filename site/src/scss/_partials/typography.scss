@@ -32,6 +32,22 @@ h5 {
   font-size: $SCALE-0;
 }
 
+em {
+  font-style: italic;
+  font-family: $FONT_ITALIC;
+}
+
+strong {
+  font-style: bold;
+  font-family: $FONT_BOLD;
+}
+
+strong em {
+  font-style: italic;
+  font-weight: bold;
+  font-family: $FONT_BOLDITALIC;
+}
+
 ul:not([class]),
 ol:not([class]) {
   padding-left: 1.5em;
@@ -45,7 +61,11 @@ blockquote {
   margin-left: 1em;
   padding-left: 1em;
   border-left: solid 10px $COLOR_MID;
-  font-style: italic;
+}
+blockquote > p {
+  font-family: $FONT_INTRO;
+  font-style: normal;
+  font-size: $SCALE-1;
 }
 
 table {

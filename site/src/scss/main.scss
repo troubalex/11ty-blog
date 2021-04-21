@@ -1,3 +1,53 @@
+// Fonts
+@font-face {
+  font-family: "IKANSEEYOUALL";
+  font-style: normal;
+  font-weight: normal;
+  src: local("IKANSEEYOUALL"),
+    url("/fonts/IKANSEEYOUALL.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Butler-Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Butler-Light"),
+    url("/fonts/Butler-Light.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: local("HKGrotesk-Medium"),
+    url("/fonts/HKGrotesk-Medium.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-MediumItalic";
+  font-style: italic;
+  font-weight: normal;
+  src: local("HKGrotesk-MediumItalic"),
+    url("/fonts/HKGrotesk-MediumItalic.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-Bold";
+  font-style: normal;
+  font-weight: bold;
+  src: local("HKGrotesk-Bold"),
+    url("/fonts/HKGrotesk-Bold.otf") format("opentype");
+  font-display: swap;
+}
+@font-face {
+  font-family: "HKGrotesk-BoldItalic";
+  font-style: italic;
+  font-weight: bold;
+  src: local("HKGrotesk-BoldItalic"),
+    url("/fonts/HKGrotesk-BoldItalic.otf") format("opentype");
+  font-display: swap;
+}
+
 // Globals
 @import "./_partials/variables";
 @import "./_partials/initialise";
