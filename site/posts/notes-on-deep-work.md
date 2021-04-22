@@ -1,7 +1,7 @@
 ---
 title: Deep Work by Cal Newport
 url: notes-deep-work-cal-newport
-description: I took notes while reading “Deep Work” by Cal Newport
+description: 'Reading notes and personal take-aways from "Deep Work": myths were busted, suspicions confirmed, and feelings validated.'
 date: 2021-04-18
 draft: false
 toc: true
@@ -13,7 +13,7 @@ tags:
   - time management
 ---
 
-Today I finished Cal Newport’s “Deep Work”. It came recommended by [my friend Eva](https://includejs.dev/) who may or may not have hear about it from our [shared buddy Elisabeth](https://elisabethirgens.github.io/notes/2021/03/deep-work/). It’s a great book, and maybe you should read it too. 
+Today I finished Cal Newport’s “Deep Work”. It came recommended by [my friend Eva](https://includejs.dev/) who may or may not have hear about it from our [shared buddy Elisabeth](https://elisabethirgens.github.io/notes/2021/03/deep-work/). It’s a great book, and maybe you should read it too.
 
 ## Why I read the book
 
@@ -33,7 +33,7 @@ _Sidebar: the idea of value here is not limited to economic or monetary value. I
 
 Me being me, I imagined “deep” work to be something magical, a state in which groundbreaking thinking happens. As I see it now, it is about undistracted, focused work on challenging tasks, like preparing a presentation for a conference or reading a business book and taking notes that lead to original thoughts. In other words, tasks of value that I do and which would benefit from less of a scattered brain.
 
-But it’s also work that directly contributes to one of my personal or professional goals. 
+But it’s also work that directly contributes to one of my personal or professional goals.
 
 ### It’s easy to get trapped in the shallows
 
@@ -47,7 +47,7 @@ Reflecting on this particular point made me realise why I have been feeling both
 
 ### Yes, a structured day is a good thing!
 
-Newport argues that there is no other way to be deliberate about how we use our time than planning and then sticking to the plan. I’ve been a fan of task blocking since forever but as a tactic it’s easier to subscribe to in theory than it is to follow through with it in practice. 
+Newport argues that there is no other way to be deliberate about how we use our time than planning and then sticking to the plan. I’ve been a fan of task blocking since forever but as a tactic it’s easier to subscribe to in theory than it is to follow through with it in practice.
 
 What I got wrong though was that I tried to stick to the plan like it was the law, and then ended up stressed out because, unsurprisingly, I was overly optimistic about how much work I could squeeze into any given day. And in addition, life kept getting in the way.
 
@@ -59,7 +59,7 @@ Also, “overflow conditional blocks”. Very smart.
 
 ### Find inspiration in the shallow, and process in the deep
 
-I kept wondering though… all this deep work sounds like a solitary exercise. This does make sense for someone writing a novel or devising a grand theory. For a lesser mind like mine however, random ideas like the ones I am exposed to during a conference’s hallway track, are valuable. 
+I kept wondering though… all this deep work sounds like a solitary exercise. This does make sense for someone writing a novel or devising a grand theory. For a lesser mind like mine however, random ideas like the ones I am exposed to during a conference’s hallway track, are valuable.
 
 Here is the thing: yes, I am exposed to new ideas and thoughts during a conference or through someone tweeting something unexpected into my time line. To make them into something valuable, I need to mull them over by myself.
 
@@ -69,13 +69,13 @@ A major point, and one that I have been epically bad at before: resting is cruci
 
 That it’s important to get enough rest if you want to do your best work makes sense. It’s hard to do anything challenging if you’re dead tired. Getting enough rest is also central to restoring our attention, and subsequently our ability to focus. And yes, talking walks in nature works wonders.
 
-I had underestimated though how severely constant task switching ruins our ability to concentrate. It’s undoubtedly exhausting, but it had never occurred to me that it could be the reason I found it hard to focus. 
+I had underestimated though how severely constant task switching ruins our ability to concentrate. It’s undoubtedly exhausting, but it had never occurred to me that it could be the reason I found it hard to focus.
 
 It’s in essence why Newport calls to quit social media: it’s context switching taken to an extreme. Instead, it’s good to be bored because it increases our tolerance for “an absence of novelty”.
 
 ### Ruthlessly defend your time
 
-This is my favourite take-away, and it’s also the hardest. 
+This is my favourite take-away, and it’s also the hardest.
 
 It all comes together: the use of time blocks to be deliberate with our time, constraints imposed by work-free evenings to force a focus on the most valuable work, a better, less reactive approach to email. All in support of defending our time, our most valuable resource.
 
