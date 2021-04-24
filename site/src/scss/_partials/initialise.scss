@@ -51,14 +51,14 @@ body {
 }
 a {
   text-decoration: underline;
-  text-decoration-thickness: 0.2em;
+  text-decoration-thickness: 0.1em;
   text-decoration-skip-ink: auto;
   cursor: pointer;
 }
 
 a:focus,
 a:hover {
-  text-decoration: none;
+  text-decoration-color: var(--THEME_HIGHLIGHT, black)
 }
 
 input::-webkit-input-placeholder,

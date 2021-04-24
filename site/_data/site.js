@@ -12,12 +12,12 @@ module.exports = {
     primary: {
       background: "white",
       text: "black",
-      highlight: "#666",
+      highlight: "#A442A0",
     },
     secondary: {
       background: "black",
       text: "white",
-      highlight: "#666",
+      highlight: "#EFC0FE",
     },
   },
 
