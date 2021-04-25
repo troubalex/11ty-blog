@@ -13,13 +13,13 @@ module.exports = {
       background: "white",
       text: "#293241",
       highlight: "#EE6C4D",
-      tag: "#E0FBFC",
+      tag: "#E1EDF4",
     },
     secondary: {
-      background: "#3D5A80",
-      text: "#E0FBFC",
+      background: "#D2E4EE",
+      text: "#293241",
       highlight: "#EE6C4D",
-      tag: "#E0FBFC",
+      tag: "#E1EDF4",
     },
   },
 

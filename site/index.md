@@ -4,7 +4,6 @@ title: Welcome!
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
-introPicture: "/pink-monster.png"
 ---
 
 Hi, I'm Alexandra.

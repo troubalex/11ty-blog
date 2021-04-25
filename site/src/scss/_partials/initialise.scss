@@ -59,7 +59,6 @@ a {
 
 a:focus,
 a:hover {
-  color: var(--THEME_HIGHLIGHT);
   text-decoration-color: var(--THEME_HIGHLIGHT, black)
 }
 
@@ -71,7 +70,9 @@ a:hover {
 .h3 > a:focus,
 .h3 > a:hover,
 .h4 > a:focus,
-.h4 > a:hover {
+.h4 > a:hover,
+a.heading-permalink:hover {
+  color: var(--THEME_HIGHLIGHT);
 }
 
 input::-webkit-input-placeholder,
