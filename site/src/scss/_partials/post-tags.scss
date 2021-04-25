@@ -11,18 +11,22 @@
 }
 
 .post-tag {
+  background: var(--THEME_TAG);
+  border-radius: 2px;
+  border: solid 1px var(--THEME_TAG);
   display: inline-block;
-  padding: 5px 10px;
   font-size: 0.8em;
-  background: $COLOR_LIGHTER;
-  border: solid 1px $COLOR_LIGHT;
-  text-decoration: none;
-  margin-right: 5px;
   margin-bottom: 10px;
+  margin-right: 5px;
+  padding: 5px 10px;
+  text-decoration: none;
 }
 
 .post-tag:hover,
 .post-tag:focus {
   text-decoration: underline;
+  border: solid 1px var(--THEME_TAG);
   background: #fff;
+  text-decoration-color: var(--THEME_HIGHLIGHT);
+  color: var(--THEME_COLOR);
 }

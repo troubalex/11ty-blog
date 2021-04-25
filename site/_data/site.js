@@ -1,7 +1,7 @@
 module.exports = {
-  name: "Alexandra's log",
+  name: "troubalex",
   shortDesc:
-    "Alexandra takes note(s).",
+    "Alexandra takes notes.",
   url: "troubalex.com",
   authorEmail: "hallo@troubalex.de",
   authorHandle: "@troubalex",
@@ -11,14 +11,23 @@ module.exports = {
   theme: {
     primary: {
       background: "white",
-      text: "black",
-      highlight: "#A442A0",
+      text: "#293241",
+      highlight: "#EE6C4D",
+      tag: "#E0FBFC",
     },
     secondary: {
-      background: "black",
-      text: "white",
-      highlight: "#EFC0FE",
+      background: "#3D5A80",
+      text: "#E0FBFC",
+      highlight: "#EE6C4D",
+      tag: "#E0FBFC",
     },
+  },
+
+  keystone: {
+    comments: false,
+    bookmarks: false,
+    claps: false,
+    login: false,
   },
 
   // Critical CSS results in much slower build times and uses a lot of system resources

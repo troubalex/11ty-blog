@@ -85,6 +85,4 @@ It is hard to put these strategies in practice. They require a clear idea of *wh
 
 I’ve started experimenting with tactics from the book, and while it’s too early to conclude anything, it looks promising.
 
----
-
-🔖 [Newport, Cal. Deep Work: Rules for Focused Success in a Distracted World. 2016](https://www.calnewport.com/books/deep-work/)
+☞ [Newport, Cal. Deep Work: Rules for Focused Success in a Distracted World. 2016](https://www.calnewport.com/books/deep-work/)

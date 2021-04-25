@@ -54,11 +54,24 @@ a {
   text-decoration-thickness: 0.1em;
   text-decoration-skip-ink: auto;
   cursor: pointer;
+  transition: all 0.2s ease;
 }
 
 a:focus,
 a:hover {
+  color: var(--THEME_HIGHLIGHT);
   text-decoration-color: var(--THEME_HIGHLIGHT, black)
+}
+
+.h3 > a,
+.h4 > a {
+  text-decoration: none;
+}
+
+.h3 > a:focus,
+.h3 > a:hover,
+.h4 > a:focus,
+.h4 > a:hover {
 }
 
 input::-webkit-input-placeholder,
@@ -79,7 +92,7 @@ img {
 }
 
 :focus {
-  outline: 1px dashed $COLOR_MID;
+  outline: 2px dashed var(--THEME_HIGHLIGHT);
   outline-offset: 2px;
 }
 [tabindex="-1"]:focus {
