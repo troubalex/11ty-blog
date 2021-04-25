@@ -16,35 +16,35 @@
   font-display: swap;
 }
 @font-face {
-  font-family: "Maple-Regular";
+  font-family: "JosefinSans-Regular";
   font-style: normal;
   font-weight: normal;
-  src: local("Maple-Regular"),
-    url("/fonts/Maple-Regular.otf") format("opentype");
+  src: local("JosefinSans-Regular"),
+    url("/fonts/JosefinSans-Regular.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
-  font-family: "Maple-RegularItalic";
+  font-family: "JosefinSans-Italic";
   font-style: italic;
   font-weight: normal;
-  src: local("Maple-RegularItalic"),
-    url("/fonts/Maple-RegularItalic.otf") format("opentype");
+  src: local("JosefinSans-Italic"),
+    url("/fonts/JosefinSans-Italic.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
-  font-family: "Maple-Bold";
+  font-family: "JosefinSans-Bold";
   font-style: normal;
   font-weight: bold;
-  src: local("Maple-Bold"),
-    url("/fonts/Maple-Bold.otf") format("opentype");
+  src: local("JosefinSans-Bold"),
+    url("/fonts/JosefinSans-Bold.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
-  font-family: "Maple-BoldItalic";
+  font-family: "JosefinSans-BoldItalic";
   font-style: italic;
   font-weight: bold;
-  src: local("Maple-BoldItalic"),
-    url("/fonts/Maple-BoldItalic.otf") format("opentype");
+  src: local("JosefinSans-BoldItalic"),
+    url("/fonts/JosefinSans-BoldItalic.ttf") format("truetype");
   font-display: swap;
 }
 
