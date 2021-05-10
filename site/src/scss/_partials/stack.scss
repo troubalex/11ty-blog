@@ -11,15 +11,6 @@
   margin-top: 2rem;
 }
 
-.l-measure >.l-stack > h1,
-.l-measure >.l-stack > h2:not(.h5),
-.l-measure >.l-stack > h3,
-.l-measure >.l-stack > h4 {
-  margin-left: calc(var(--container-margin) / 2 * -1);
-  margin-right: calc(var(--container-margin) / 2 * -1);
-  max-width: 30ch;
-}
-
 .l-stack > .h5 {
   margin-bottom: 2rem;
   color: $COLOR_MID;
