@@ -1,7 +1,7 @@
 module.exports = {
   name: "And Yet",
   shortDesc:
-    "Alexandra takes notes.",
+    "Notes, thoughts, and contradictions.",
   url: "troubalex.com",
   authorEmail: "hallo@troubalex.de",
   authorHandle: "@troubalex",

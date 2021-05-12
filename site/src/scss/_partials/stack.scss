@@ -1,3 +1,4 @@
+$bp-site-head: 600px;
 
 .l-stack {
   display: block;
@@ -9,6 +10,28 @@
 
 .l-stack--large > * + * {
   margin-top: 2rem;
+}
+
+.l-stack--large > .theme-bg {
+  position: relative;
+  overflow: hidden;
+
+  & > .logo {
+    width: 100%;
+    right: -4rem;
+    bottom: -4rem;
+    position: absolute;
+    opacity: 0.3;
+  }
+  @media (min-width: $bp-site-head) {
+    & > .logo {
+      width: 55%;
+    }
+  }
+}
+
+.l-stack > h2.post-list-home {
+  margin-bottom: 0;
 }
 
 .l-stack > .h5 {

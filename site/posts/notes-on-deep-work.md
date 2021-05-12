@@ -5,7 +5,7 @@ description: 'Reading notes and personal take-aways from "Deep Work": myths were
 date: 2021-04-18
 draft: false
 toc: true
-images:
+social_image: /img/deep-work.jpeg
 tags:
   - til
   - book notes

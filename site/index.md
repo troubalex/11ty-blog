@@ -3,7 +3,7 @@ layout: "layouts/home.njk"
 title: Welcome
 postsHeading: Latest posts
 allPostsText: See all posts
-socialImage: ""
+social_image: ""
 ---
 
 Hi, I'm Alexandra.
