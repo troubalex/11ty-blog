@@ -5,6 +5,12 @@ description: This is the page on every site where the author talks about themsel
 socialImage: ""
 ---
 
+> “Do I contradict myself?<br>
+> Very well then I contradict myself,<br>
+> (I am large, I contain multitudes.)”
+
+― Walt Whitman, Leaves of Grass
+
 ## About Alexandra
 
 Alexandra has more than 10 years of experience in product related roles from key Norwegian tech companies.
