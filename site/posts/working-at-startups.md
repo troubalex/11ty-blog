@@ -1,5 +1,6 @@
 ---
 title: "Working at an Early-Stage Startup"
+description: Should you apply for a job at an early stage startup? Maybe. These are my pros and cons.
 date: 2019-04-07
 draft: false
 toc: false

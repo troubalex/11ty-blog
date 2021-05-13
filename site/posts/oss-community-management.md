@@ -1,5 +1,6 @@
 ---
 title: "Community Leadership and People Management"
+description: How lessons learnt from community management prepared me for people management.
 date: 2019-04-24
 draft: false
 toc: false

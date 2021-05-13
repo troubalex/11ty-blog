@@ -1,7 +1,7 @@
 ---
 layout: "layouts/home.njk"
 title: Hello, friend!
-description: The home for notes, thoughts, and contradictions.
+description: Alexandra's home for notes, thoughts, and contradictions.
 postsHeading: Latest posts
 allPostsText: See all posts
 social_image: ""
