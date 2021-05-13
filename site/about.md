@@ -1,17 +1,9 @@
 ---
 layout: "layouts/post.njk"
-title: The About Page
+title: About Alexandra
 description: This is the page on every site where the author talks about themselves in the 3rd person. It's awkward but it might prove useful for an epitaph.
 socialImage: ""
 ---
-
-> “Do I contradict myself?<br>
-> Very well then I contradict myself,<br>
-> (I am large, I contain multitudes.)”
-
-― Walt Whitman, Leaves of Grass
-
-## About Alexandra
 
 Alexandra has more than 10 years of experience in product related roles from key Norwegian tech companies.
 
@@ -27,6 +19,8 @@ She joined VIBBIO in November 2017 as her ambitions align beautifully with Maria
 
 She has since rebuilt the engineering team from the ground up, redesigned the application UI, and taken full ownership of VIBBIO’s product strategy, in addition to her contributions to building the company itself.
 
+> She was warned. She was given an explanation. <br> Nevertheless, she persisted.
+
 Before moving to Norway, Alexandra worked as a soprano at theatres and concert halls all over Germany, and ran her own web development agency.
 
 She has contributed to open source projects such as KDE, Exorcism, and Rails Girls, co-organises the Web Rebels Javascript conference, and is regularly invited to speak at tech conferences all over Europe.
@@ -38,3 +32,7 @@ Alexandra has a masters degree in opera and stage performance from the Universit
 This site is built on [11ty](https://github.com/11ty/eleventy/) and the [Supermaya starter template](https://github.com/MadeByMike/supermaya). Both are great!
 
 There is more to say, and I'll write it down eventually. Maybe.
+
+But this is how it all started.
+
+https://twitter.com/antodev89/status/1383394683225657344?s=20

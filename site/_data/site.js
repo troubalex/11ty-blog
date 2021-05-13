@@ -1,5 +1,5 @@
 module.exports = {
-  name: "And Yet",
+  name: "Nevertheless",
   shortDesc:
     "Notes, thoughts, and contradictions.",
   url: "troubalex.com",

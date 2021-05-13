@@ -14,6 +14,9 @@ const criticalCSSTransform = require("./site/transforms/critical-css-transform.j
 // Import data files
 const site = require("./site/_data/site.js");
 
+// Embed everything
+const embedsPlugin = require("eleventy-plugin-embed-everything");
+
 module.exports = function(config) {
   // Filters
   config.addFilter("dateFilter", dateFilter);
@@ -52,6 +55,7 @@ module.exports = function(config) {
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
+  config.addPlugin(embedsPlugin);
 
   // Watch for changes to my source files
   if (config.addWatchTarget) {
