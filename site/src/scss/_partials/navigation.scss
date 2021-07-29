@@ -2,6 +2,13 @@
   display: flex;
 }
 
+@media (min-width: 800px) {
+  .l-navigation a {
+    font-size: 80%;
+  }
+}
+
+
 .l-navigation > * {
   white-space: pre;
 }
