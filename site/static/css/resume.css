@@ -1,0 +1,21 @@
+.l-post-intro {
+  padding-bottom: 0;
+}
+.h4,
+h4 {
+  font-family: JosefinSans-Bold, sans-serif;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  font-size: 90%;
+}
+
+h4 + p,
+blockquote + p {
+  opacity: 0.7;
+  font-size: 90%;
+}
+
+blockquote + p {
+  text-align: right;
+}
