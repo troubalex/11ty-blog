@@ -3,7 +3,7 @@ layout: layouts/page.njk
 extra_css: ['/css/resume.css']
 title: Curriculum Vitae
 description: I am a product leader and people manager with more than 10 years of experience in product related roles from key Norwegian tech companies.
-socialImage:
+social_image: /img/resume.jpg
 ---
 
 I am a self-driven and structured team-player who cares deeply about great user experiences. I take a human-centered approach to almost anything, and I can get excited about most things web technology. I am curious and reflective which makes me an exceptional learner.
