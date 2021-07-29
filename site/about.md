@@ -19,13 +19,14 @@ She joined VIBBIO in November 2017 as her ambitions align beautifully with Maria
 
 She has since rebuilt the engineering team from the ground up, redesigned the application UI, and taken full ownership of VIBBIO’s product strategy, in addition to her contributions to building the company itself.
 
-> She was warned. She was given an explanation. <br> Nevertheless, she persisted.
-
 Before moving to Norway, Alexandra worked as a soprano at theatres and concert halls all over Germany, and ran her own web development agency.
 
 She has contributed to open source projects such as KDE, Exorcism, and Rails Girls, co-organises the Web Rebels Javascript conference, and is regularly invited to speak at tech conferences all over Europe.
 
 Alexandra has a masters degree in opera and stage performance from the University for Dance and Music in Cologne.
+
+She has published her detailed curriculum vitae [on this page](/resume/).
+
 
 ## About this site
 
