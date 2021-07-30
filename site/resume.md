@@ -105,14 +105,10 @@ Trolltech (acquired by Nokia in June 2008), developed [Qt](https://www.qt.io/), 
 
 _November 2008 – June 2012_
 
-- Developed and implemented the strategy for Qt in social media, on own web sites, and in collaboration with volunteer-driven community sites
+- Developed and implemented the strategy for Qt in social media, on own web properties, and in collaboration with volunteer-driven community sites
 - Developed concept and strategy for the Qt Developer Network in tight collaboration with the project manager, conducted user research and usability testing, and wrote large amounts of supporting copy
 - Grew the Qt Developer Network to 2 million unique visits per month
-- Facilitated product discussions, collected and analyzed feedback, and communicated plans and upcoming changes to internal and external communities
 - Managed the transfer of the Qt Developer Network from Nokia’s ownership to an external foundation (qt-project.org at the time) which included moving servers and domains, and a new legal status which resulted in many changes to copy, content, and functionality
-- Took the first “Qt Contributors’ Summit” with 265 invited attendees from idea to execution in Berlin to kick off Qt's open-source governance
-- Semifinals, “Nokia Operational Excellence Award” for successfully executed projects — 2012
-- “Kudos Award” for outstanding developer community work — 2010
 
 > Alexandra's ability to facilitate, structure and coordinate the goals and efforts towards those goals of the group, initially without explicit mandate or structural power, based on trust and leadership skills alone, impressed me. She is able to engage and motivate difficult personalties and calmly and effectively moderate conflict.
 
