@@ -25,7 +25,7 @@ She has contributed to open source projects such as KDE, Exorcism, and Rails Gir
 
 Alexandra has a masters degree in opera and stage performance from the University for Dance and Music in Cologne.
 
-She has published her detailed curriculum vitae [on this page](/resume/).
+She has published her detailed curriculum vitae [on this page](/about/curriculum-vitae-alexandra-leisse/).
 
 
 ## About this site

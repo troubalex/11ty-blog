@@ -10,7 +10,7 @@ Dir.chdir "posts"
 File.open("#{$creation_date}-#{$file_name}.md", "w+") do |f|
   f.write("---
 title:
-url:
+permalink: /posts/
 description: ''
 date: #{$creation_date}
 social_image: /img/

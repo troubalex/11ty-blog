@@ -1,6 +1,6 @@
 ---
 title: We Belong Here podcast episode
-url: podcast-we-belong-here
+permalink: /posts/podcast-we-belong-here/
 description: 'Lauren Lee invited me onto her podcast "We belong here" in March 2020'
 date: 2021-07-29
 social_image:

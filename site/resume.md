@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 extra_css: ['/css/resume.css']
 title: Curriculum Vitae
+permalink: /about/curriculum-vitae-alexandra-leisse/
 description: I am a product leader and people manager with more than 10 years of experience in product related roles from key Norwegian tech companies.
 social_image: /img/resume.jpg
 ---
@@ -96,7 +97,7 @@ _July 2012 – August 2014_
 
 _Yoav Boaz, Head of Product Management, ServiceNow_
 
-### Nokia
+### Nokia / Qt
 
 Trolltech (acquired by Nokia in June 2008), developed [Qt](https://www.qt.io/), a multi-platform application development framework written in C++. A central part of its marketing strategy was direct cooperation with its community of commercial and open-source developers, particularly KDE and Linux distributions.
 
@@ -117,13 +118,9 @@ _November 2008 – June 2012_
 
 _Till Adam, Chief Commercial Officer, KDAB_
 
-### Freelancing
+### Self-employed
 
-**Web Master** October 2007 – March 2009
-
-Web-projects built on Wordpress and Joomla, maintenance of a home-grown CMS serving [dgph.de](https://dgph.de/); converting and sending HTML newsletters and press-releases
-
-**Soprano** April 1999 – October 2008
+**Soprano** — April 1999 – October 2008
 
 Soloist at various opera houses and concert halls in Germany, and several other European countries.<br>
 (Yes, I have recordings. You can listen to me sing [on soundcloud](https://soundcloud.com/troubalex/sets/opera).)

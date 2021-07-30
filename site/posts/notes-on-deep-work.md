@@ -1,10 +1,8 @@
 ---
 title: Deep Work by Cal Newport
-url: notes-deep-work-cal-newport
 description: 'Reading notes and personal take-aways from "Deep Work": myths were busted, suspicions confirmed, and feelings validated.'
 date: 2021-04-18
-draft: false
-toc: true
+permalink: /posts/notes-on-deep-work-cal-newport/
 social_image: /img/deep-work.jpeg
 tags:
   - til
