@@ -54,8 +54,6 @@
       {% endfor %}
     {% endif %}
 
-    {% include "partials/services/keystone-login-styles.njk" %}
-
     {% include "partials/global/meta-info.njk" %}
     {% block head %}{% endblock %}
 
@@ -77,7 +75,6 @@
     </div>
     <script type="text/javascript" src="/js/service-worker.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
-    {% include "partials/services/keystone-login-scripts.njk" %}
     {% if extra_js %}
       {% for item in extra_js %}
         <script type="text/javascript" src="{{item}}"></script>
