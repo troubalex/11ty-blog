@@ -4,3 +4,9 @@
   publish = "dist"
 [template.environment]
   KEYSTONE_API = "Paste your Keystone API URL here"
+
+[[redirects]]
+  from = "/resume/"
+  to = "/about/curriculum-vitae-alexandra-leisse/"
+  status = 301
+  force = true
