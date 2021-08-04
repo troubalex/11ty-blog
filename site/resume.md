@@ -20,7 +20,7 @@ I am good at
 - learning about complex topics real fast, and deciding where to dive deeper and where to move on
 - leading—and managing—software engineers, remote and in the office
 - removing entropy and keeping things on track, oftentimes by doing the work of a missing team member
-- finding the perfect reaction gif
+- finding the [perfect reaction gif](/img/lady_gaga.gif)
 
 ### VIBBIO
 
