@@ -2,7 +2,7 @@ module.exports = {
   name: "Nevertheless",
   shortDesc:
     "Notes, thoughts, and contradictions.",
-  url: "troubalex.com",
+  url: "https://www.troubalex.com",
   authorEmail: "hallo@troubalex.de",
   authorHandle: "@troubalex",
   authorName: "Alexandra",
