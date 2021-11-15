@@ -22,6 +22,14 @@ I am good at
 - removing entropy and keeping things on track, oftentimes by doing the work of a missing team member
 - finding the [perfect reaction gif](/img/lady_gaga.gif)
 
+### BRYTER
+
+[BRYTER](https://www.bryter.com) is the no-code service automation platform that enables business experts to build digital applications.
+
+#### Principal Product Manager
+
+_November 2021 – present_
+
 ### VIBBIO
 
 [VIBBIO](https://www.vibbio.com) is building a cloud-based video creation platform tailored for internal communications managers.
@@ -32,7 +40,7 @@ I joined VIBBIO in 2017 as the first dedicated product person and most senior te
 
 #### CPO/CTO
 
-_July 2020 – present_
+_July 2020 – October 2021_
 
 - Contributed to a new company strategy following a product and subsequent customer pivot; led the teams through the following repositioning process
 - Launched an entirely new product, set and communicated launch-related goals and KPIs, and led and supported the engineering team through an intense period of change

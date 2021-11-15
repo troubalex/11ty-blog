@@ -15,9 +15,11 @@ After a consulting period where she further improved her interaction design and 
 
 Alexandra also proposed and managed changes to Ardoq’s internal product development and communication processes, and contributed to the company’s hiring efforts.
 
-She joined VIBBIO in November 2017 as her ambitions align beautifully with Marianne’s vision for the company.
+She joined VIBBIO in November 2017 as her ambitions aligned beautifully with the founder's vision for the company.
 
-She has since rebuilt the engineering team from the ground up, redesigned the application UI, and taken full ownership of VIBBIO’s product strategy, in addition to her contributions to building the company itself.
+She rebuilt the engineering team from the ground up, redesigned the application UI, and took full ownership of VIBBIO’s product strategy, in addition to her contributions to building the company itself.
+
+It was time to move on in November 2021, and she joined BRYTER as Principal PM.
 
 Before moving to Norway, Alexandra worked as a soprano at theatres and concert halls all over Germany, and ran her own web development agency.
 
