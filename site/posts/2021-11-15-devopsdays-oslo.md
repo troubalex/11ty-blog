@@ -2,7 +2,7 @@
 title: DevOps Days Oslo 2021
 permalink: /devopsdays-oslo-2021/
 description: 'I talked about product thinking and opportunity-solution-trees.'
-date: 2021-11-15
+date: 2021-11-16
 social_image: /img/
 tags:
   - presentation
