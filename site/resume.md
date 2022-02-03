@@ -30,6 +30,8 @@ I am good at
 
 _November 2021 – present_
 
+- Responsible PM for document generation
+
 ### VIBBIO
 
 [VIBBIO](https://www.vibbio.com) is building a cloud-based video creation platform tailored for internal communications managers.
@@ -61,7 +63,7 @@ _November 2017 – June 2020_
 
 > With a solid technical understanding she was able to both develop and design the product while also leading the development team. [...] Alexandra is an amazing manager and without a doubt the best manager I have ever worked with.
 
-_Espen Dahlløkken, Software Developer, Documaster_
+_Espen Dahlløkken, then Software Developer at VIBBIO_
 
 ### Ardoq
 
@@ -104,7 +106,7 @@ _July 2012 – August 2014_
 
 > Alexandra was instrumental to the rewrite of CFEngine's new web UI, a project we have worked on together for about a year. Without Alexandra's matured leadership, creative mind and management skills this transformation would not have happened.
 
-_Yoav Boaz, Head of Product Management, ServiceNow_
+_Yoav Boaz, then VP of Product, CFEngine_
 
 ### Nokia / Qt
 
