@@ -4,7 +4,7 @@ title: Hello, friend!
 description: Alexandra's home for notes, thoughts, and contradictions.
 postsHeading: Latest posts
 allPostsText: See all posts
-social_image: ""
+social_image:
 ---
 
 I'm Alexandra.
