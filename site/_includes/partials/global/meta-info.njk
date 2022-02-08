@@ -23,7 +23,7 @@
 {% endif %}
 
 {% if site.socialImage %}
-  <meta property="twitter:image" content="{{ site.socialImage }}"/>
+  <meta property="twitter:image" content="{{ site.url + site.socialImage }}"/>
   <meta property="og:image" content="{{ site.socialImage }}"/>
   <meta property="og:image:alt" content="Page image for {{ site.name }}"/>
 {% endif %}
