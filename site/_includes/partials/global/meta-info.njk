@@ -10,7 +10,7 @@
 <meta property="og:title" content="{{ pageTitle }}"/>
 <meta property="og:type" content="website"/>
 <meta property="og:url" content="{{ site.url + page.url }}"/>
-<meta name="twitter:card" content="summary"></meta>
+<meta name="twitter:card" content="summary_large_image"></meta>
 
 {% if site.authorHandle %}
   <meta name="twitter:creator" content="@{{ site.authorHandle | replace('@', '') }}"/>
@@ -25,6 +25,7 @@
 {% set socialImage = site.socialImage %}
 
 {% if socialImage %}
+  <meta property="twitter:image" content="{{ socialImage }}"/>
   <meta property="og:image" content="{{ socialImage }}"/>
   <meta property="og:image:alt" content="Page image for {{ site.name }}"/>
 {% endif %}
