@@ -22,11 +22,9 @@
   <meta property="og:description" content="{{ metaDescription }}"/>
 {% endif %}
 
-{% set socialImage = site.socialImage %}
-
 {% if socialImage %}
-  <meta property="twitter:image" content="{{ socialImage }}"/>
-  <meta property="og:image" content="{{ socialImage }}"/>
+  <meta property="twitter:image" content="{{ site.socialImage }}"/>
+  <meta property="og:image" content="{{ site.socialImage }}"/>
   <meta property="og:image:alt" content="Page image for {{ site.name }}"/>
 {% endif %}
 
