@@ -14,11 +14,11 @@ tags:
 
 https://vimeo.com/692591029
 
-_This talk has been years in the making. You could say it’s the sequel to my [“Developers, start designing!” talk.](https://vimeo.com/209550722) When I was looking around for a new job last autumn, I had the “pleasure” to read enough job ads to become irritated._
+_[This talk](https://2022.boosterconf.no/talk/151-product-owner-is-not-a-job/) has been years in the making. You could say it’s the sequel to my [“Developers, start designing!” talk.](https://vimeo.com/209550722) When I was looking around for a new job last autumn, I had the “pleasure” to read enough job ads to become irritated._
 
 ## What is a Product Owner?
 
-Product Owner is a role on a Scrum team. The product owner is responsible for maintaining and sustaining the content and priority of the product backlog. The most important aspect of executing this role well is creating backlog visibility inside the scrum team and across the organisation. Scrum is not prescriptive in who should take on this role; Ken Schwaber describes it as highly dependent on the organisation and the product. It can be a domain expert, a project manager, a department head or anyone else who is ultimately responsible for the value created by the team. Think of it as the organisational sponsor.
+Product Owner is a role on a Scrum team. The product owner is responsible for maintaining and sustaining the content and priority of the product backlog. The most important aspect of executing this role well is creating backlog visibility inside the scrum team and across the organisation. Scrum is not prescriptive in who should take on this role; [Ken Schwaber describes it](https://www.goodreads.com/book/show/349419.Agile_Software_Development_with_Scrum) as highly dependent on the organisation and the product. It can be a domain expert, a project manager, a department head or anyone else who is ultimately responsible for the value created by the team. Think of it as the organisational sponsor.
 
 You could argue that I’m splitting hairs here and that it’s semantics. And that might be true if the title Product Owner didn’t show up in job ads and descriptions with a distinct set of tasks and responsibilities based mainly on Scrum rituals and artefacts.
 
@@ -56,6 +56,6 @@ My point here is different: we need to stop treating problem discovery as someon
 
 ## Conclusion
 
-Product companies still consider Scrum or any other agile development framework as all there is to product development. Their mental models are still defined by the deliberately black-boxed model that these frameworks present. As long as there is no change, teams will be stuck in an output focused mindset. It is hard to break out of this habit and go after the real opportunities in this context. When solutions are handed to us to deliver, all we can excel at is delivery. That’s why we’re so good at it!
+Too many product companies still consider Scrum or any other agile development framework as all there is to product development. Their mental models are still defined by the deliberately black-boxed model that these frameworks present. As long as there is no change, teams will be stuck in an output focused mindset. It is hard to break out of this habit and go after the real opportunities in this context. When solutions are handed to us to deliver, all we can excel at is delivery. That’s why we’re so good at it!
 
 Sadly, we leave a lot of value on the table when we operate like this. Our teams do not take full ownership of the business outcome, we don’t know what we’re aiming for, and ultimately, it’s close to impossible to hold us accountable for any high-value goal. Job ads that call for product owners instead of product managers are only one symptom of this limiting approach and only so happen to irritate me enough to send proposals to conferences about it.
