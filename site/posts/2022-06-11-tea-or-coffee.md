@@ -4,7 +4,7 @@ permalink: /posts/tea-or-coffee-situation/
 description: |-
   A German and a Norwegian meet in a Torshov kitchen...  
   Or: How different communication styles lead to asymmetries and misunderstandings.
-date: 2022-06-11
+date: 2022-06-14
 social_image: /img/tea_or_coffee.jpg
 tags:
   - communication
