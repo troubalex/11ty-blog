@@ -5,7 +5,7 @@ description: |-
   A German and a Norwegian meet in a Torshov kitchen...  
   Or: How different communication styles lead to asymmetries and misunderstandings.
 date: 2022-06-11
-social_image:
+social_image: /img/tea_or_coffee.jpg
 tags:
   - communication
   - reflections
