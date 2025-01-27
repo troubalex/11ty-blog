@@ -11,7 +11,9 @@ tags:
   - time management
 ---
 
-Today I finished Cal Newport’s “Deep Work”. It came recommended by [my friend Eva](https://includejs.dev/) who may or may not have heard about it from our [shared buddy Elisabeth](https://elisabethirgens.github.io/notes/2021/03/deep-work/). It’s a great book, and maybe you should read it too.
+Today I finished Cal Newport’s “Deep Work”. It came recommended by [my friend Eva](https://includejs.dev/) who may or may not have heard about it from our [common buddy Elisabeth](https://elisabethirgens.github.io/notes/2021/03/deep-work/). It’s a great book, and maybe you should read it too.
+
+<img src="https://www.norli.no/media/catalog/product/9/7/9780349411903_1.jpg">
 
 I am not into books on productivity hacks, because they never solve the problem of mediocre productivity but try to give advice on how to cram _even more_ into any given day. I have extensive experience with that approach, and it’s not for me.
 
